@@ -119,6 +119,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/Neve7s)
+Yo: [Nosyeih](https://github.com/Neve7s)
 
 Last Edited on: 26/7/2025
