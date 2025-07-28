@@ -29,7 +29,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **haccer aplicaciones escalables.**
 
-- ☁️ Estoy interesado en prfundizar Cloud Computing****
+- ☁️ Estoy interesado en prfundizar **Cloud Computing**
 
 - 💬 Preguntame **Python, react, nodejs, mongoDB, PostgresSQL**
 
