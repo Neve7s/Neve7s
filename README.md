@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://hieyson.com/img/logo/black/favicon-96x96.png)" alt="hieyson" />
+  <img src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg]" alt="hieyson" />
 </div>
 
 ---
