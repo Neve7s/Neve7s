@@ -67,10 +67,4 @@
       <animate attributeName="opacity" values="0.7;0.3;0.7" dur="5s" repeatCount="indefinite" />
     </path>
   </g>
-
-  <text x="450" y="100" font-family="Fira Code, monospace" font-size="42" font-weight="700"
-        fill="url(#textGrad)" text-anchor="middle">HieysoN</text>
-
-  <text x="450" y="140" font-family="Fira Code, monospace" font-size="16"
-        fill="#8b949e" text-anchor="middle">Software Inteligente &amp; Automatizaci&#243;n con IA</text>
 </svg>
