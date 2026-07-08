@@ -7,10 +7,6 @@
 
 <div align="center">
 
-# Hola, Soy Hieyson Hilario
-
-### <a href="https://hieyson.com" target="_blank">HieysoN</a> — Software Inteligente & Automatización con IA
-
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;AI+%26+Automation+Specialist;Construyo+Agentes+de+IA+(RAG);Automatizo+procesos+con+n8n;Arquitecturas+Escalables+%26+Codigo+Limpio&font=Fira%20Code&center=true&width=560&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 
 </div>
