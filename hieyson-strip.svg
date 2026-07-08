@@ -1,0 +1,40 @@
+<svg width="100%" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="stripGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#131c2e;#0d1117" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#131c2e">
+        <animate attributeName="stop-color" values="#131c2e;#1b2a45;#131c2e" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0d1117">
+        <animate attributeName="stop-color" values="#0d1117;#132038;#0d1117" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="60" fill="url(#stripGrad)" />
+
+  <g fill="#58A6FF">
+    <circle cx="100" cy="30" r="1.6" opacity="0.6">
+      <animate attributeName="cy" values="10;50;10" dur="6s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.6;0.1;0.6" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="300" cy="20" r="1.3" opacity="0.5">
+      <animate attributeName="cy" values="50;10;50" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="500" cy="40" r="1.8" opacity="0.55">
+      <animate attributeName="cy" values="15;45;15" dur="7s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="700" cy="15" r="1.4" opacity="0.5">
+      <animate attributeName="cy" values="40;10;40" dur="6.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="820" cy="35" r="1.6" opacity="0.6">
+      <animate attributeName="cy" values="10;50;10" dur="5.5s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <line x1="0" y1="30" x2="900" y2="30" stroke="#2b3a55" stroke-width="1" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="4s" repeatCount="indefinite" />
+  </line>
+</svg>
