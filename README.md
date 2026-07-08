@@ -86,14 +86,6 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">🐍 Actividad de Contribuciones</h2></summary>
-  </ul>
-</div>
-
-<img src="hieyson-strip.svg" width="100%" alt="" />
-
-<div id="user-content-toc">
-  <ul align="center">
     <summary><h2 style="display: inline-block">🧩 Tecnologías & Herramientas</h2></summary>
   </ul>
 </div>
