@@ -133,11 +133,11 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 </div>
 
 <p align="center">
-  <a href="https://hieyson.com" target="_blank"><img align="center" src="https://api.iconify.design/logos:google-earth-engine.svg" alt="website" height="45" width="45" /></a>
-  <a href="https://www.linkedin.com/in/hieyson-h-XXXXXX/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://hieyson.com" target="_blank"><img align="center" src="https://hieyson.com/img/logo/black/favicon-96x96.png" alt="website" height="45" width="45" /></a>
+  <a href="www.linkedin.com/in/hieyson-h-6535b5209" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="mailto:contacto@hieyson.com" target="_blank"><img align="center" src="https://api.iconify.design/logos:google-gmail.svg" alt="email" height="45" width="45" /></a>
   <a href="https://discordapp.com/users/672302449209507842" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
-  <a href="https://www.instagram.com/#/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  <a href="https://www.instagram.com/hieysonshc/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
   <a href="https://twitter.com/#" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>
 </p>
 
