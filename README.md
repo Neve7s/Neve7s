@@ -1,4 +1,9 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+
+<!-- Banner animado (SVG con partículas + gradiente en movimiento) -->
+<img src="hieyson-banner.svg" alt="HieysoN banner" width="100%" />
+
+</div>
 
 <div align="center">
 
@@ -89,6 +94,20 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 
 <div id="user-content-toc">
   <ul align="center">
+    <summary><h2 style="display: inline-block">🐍 Actividad de Contribuciones</h2></summary>
+  </ul>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Neve7s/Neve7s/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+</div>
+
+> Esta animación tipo "snake" se genera sola cada día mediante GitHub Actions (ver instrucciones abajo).
+
+---
+
+<div id="user-content-toc">
+  <ul align="center">
     <summary><h2 style="display: inline-block">🧩 Tecnologías & Herramientas</h2></summary>
   </ul>
 </div>
@@ -151,8 +170,10 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="hieyson-banner.svg" alt="HieysoN banner" width="100%" />
+</div>
 
 ---
-<p align="center"><i>Yo: <a href="https://github.com/Neve7s">Nosyeih</a> — 2026
+<p align="center"><i>Yo: <a href="https://github.com/Neve7s">Nosyeih</a> — 2026</i></p>
 <p align="center"><sub>Última actualización: 08/07/2026</sub></p>
