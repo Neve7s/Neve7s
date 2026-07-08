@@ -74,8 +74,6 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 <table align="center">
 <tr>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neve7s&theme=dark&show_icons=true&count_private=true" />
-  <br>
   <img title="🔥 Racha de contribuciones" alt="Streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Neve7s&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
@@ -84,12 +82,6 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=Neve7s&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-  </a>
-</div>
-
 <img src="hieyson-strip.svg" width="100%" alt="" />
 
 <div id="user-content-toc">
@@ -97,12 +89,6 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
     <summary><h2 style="display: inline-block">🐍 Actividad de Contribuciones</h2></summary>
   </ul>
 </div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Neve7s/Neve7s/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
-</div>
-
-> Esta animación tipo "snake" se genera sola cada día mediante GitHub Actions (ver instrucciones abajo).
 
 <img src="hieyson-strip.svg" width="100%" alt="" />
 
