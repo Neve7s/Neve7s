@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hola 👋, Soy Hieyson Hilario
+# Hola, Soy Hieyson Hilario
 
 ### <a href="https://hieyson.com" target="_blank">HieysoN</a> — Software Inteligente & Automatización con IA
 
