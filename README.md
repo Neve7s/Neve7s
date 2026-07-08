@@ -19,7 +19,7 @@
   <img src="https://hieyson.com/img/logo/black/favicon-96x96.png" alt="hieyson" />
 </div>
 
----
+<img src="hieyson-strip.svg" width="100%" alt="" />
 
 ### 🧠 Entre algoritmos y café, nace la magia.
 
@@ -32,7 +32,7 @@
 - 🌐 Portafolio y casos de éxito: **[hieyson.com](https://hieyson.com)**
 - 🏠 Déjame un **👋** en Discord: [Nosyeih](https://discordapp.com/users/672302449209507842)
 
----
+<img src="hieyson-strip.svg" width="100%" alt="" />
 
 <div id="user-content-toc">
   <ul align="center">
@@ -63,7 +63,7 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 </tr>
 </table>
 
----
+<img src="hieyson-strip.svg" width="100%" alt="" />
 
 <div id="user-content-toc">
   <ul align="center">
@@ -90,7 +90,7 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
   </a>
 </div>
 
----
+<img src="hieyson-strip.svg" width="100%" alt="" />
 
 <div id="user-content-toc">
   <ul align="center">
@@ -104,7 +104,7 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 
 > Esta animación tipo "snake" se genera sola cada día mediante GitHub Actions (ver instrucciones abajo).
 
----
+<img src="hieyson-strip.svg" width="100%" alt="" />
 
 <div id="user-content-toc">
   <ul align="center">
@@ -143,7 +143,7 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
   <img src="https://api.iconify.design/logos:cloudflare.svg?height=48" />
 </p>
 
----
+<img src="hieyson-strip.svg" width="100%" alt="" />
 
 <div id="user-content-toc">
   <ul align="center">
@@ -174,6 +174,5 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
   <img src="hieyson-banner.svg" alt="HieysoN banner" width="100%" />
 </div>
 
----
 <p align="center"><i>Yo: <a href="https://github.com/Neve7s">Nosyeih</a> — 2026</i></p>
 <p align="center"><sub>Última actualización: 08/07/2026</sub></p>
