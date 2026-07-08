@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
+  <img src="[https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg](https://hieyson.com/img/logo/black/favicon-96x96.png)" alt="hieyson" />
 </div>
 
 ---
@@ -154,5 +154,5 @@ Portales de clientes y paneles administrativos complejos pero fáciles de entend
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
-<p align="center"><i>Yo: <a href="https://github.com/Neve7s">Nosyeih</a> — Fundador de <a href="https://hieyson.com">HieysoN</a></i></p>
+<p align="center"><i>Yo: <a href="https://github.com/Neve7s">Nosyeih</a> — 2026
 <p align="center"><sub>Última actualización: 08/07/2026</sub></p>
